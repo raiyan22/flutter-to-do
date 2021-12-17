@@ -1,4 +1,4 @@
-# flutter_to_do_list
+# flutter_to_do
 
 A new Flutter project.
 
